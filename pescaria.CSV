@@ -1,0 +1,10 @@
+id,nome_pescador,nome_peixeiro,origem,tipo_peixe,nome_cientifico,nome_popular,quantidade,peso,data_pescada,data_venda
+,José,mario,Purus,escama,sardinops,sardinha,10,12,15/jan,15/jan
+,João,rafael,Purus,escama,cascuda,cascadura,8,10,25/jan,26/jan
+,marcos,zé,purus,escama,piaracctus,pacú,14,10,01/fev,01/fev
+,antonio,rodson,lago,escama,colossomamacropomum,tambaqui,11,25,06/fev,07/fev
+,luiz,thiago,purus,escama,brycon,matrinxã,5,15,13/fev,13/fev
+,jojão,manoel,purus,couro,pintado,surubim,8,23,15/fev,15/fev
+,paulo,cefas,purus,couro,pirapitinga,pirapiitinga,4,13,16/fev,17/fev
+,carlos,samuel,purus,couro,pimelodus,mandi,15,13,18/fev,18/fev
+,ronaldo,francisco,purus,couro,pinirampus,piranambu,4,11,20/fev,20/fev
